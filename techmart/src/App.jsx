@@ -6,7 +6,7 @@ const App = () => {
     <>
       <div className="bg-black text-white">
         <h1>shyam sundar</h1>
-        <h2>jasd</h2>
+        <h2>jasdddf</h2>
       </div>
     </>
   );
